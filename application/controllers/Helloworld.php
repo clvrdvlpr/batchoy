@@ -88,4 +88,9 @@ class Helloworld extends CI_Controller {
 	public function method1($arg1=null,$arg2=null){
 		echo "hello method $arg1 $arg2";
 	}
+	
+	public function check_args(){
+		
+	}
+	
 }
