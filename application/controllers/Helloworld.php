@@ -93,4 +93,8 @@ class Helloworld extends CI_Controller {
 		
 	}
 	
+	public function myFunction(){
+		
+	}
+	
 }
