@@ -7,6 +7,6 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		// $this->load->view('welcome_researcher');
-		$this->load->view('view_test');
+		$this->load->view('homepage');
 	}
 }
